@@ -1,0 +1,1 @@
+![](ChartTypes.gif)
